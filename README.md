@@ -17,4 +17,4 @@ pip install -r ./requirements.txt --upgrade
 If using VSCode, restart it or follow these steps:
  - `Ctrl + Shift + P`
  - _Select Interpreter_
- - Choose `./.venv/bin/python`.
+ - Choose `./venv/bin/python`.
